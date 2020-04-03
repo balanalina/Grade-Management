@@ -1,0 +1,20 @@
+1; Nitric Acid reaction ;4
+2; Alkali Metal in Water ;4
+3; Alkali Metal reaction ;4
+4; Nitric Acid and thermite ;6
+5; Copper coloring Fire ;3
+6; Copper and thermite ;6
+7; Hydrogen Peroxide and thermite ;5
+8; Hydrogen Peroxide coloring Fire ;6
+9; Nitric Acid dehydration ;4
+10; Copper coloring Fire ;6
+11; Alkali Metal in Water ;6
+12; Copper reaction ;6
+13; Potassium Iodide reaction ;4
+14; Potassium Iodide coloring Fire ;5
+15; Potassium Iodide dehydration ;6
+16; Alkali Metal dehydration ;3
+17; Hydrogen Peroxide in Water ;3
+18; Hydrogen Peroxide coloring Fire ;4
+19; Copper in Water ;4
+20; Alkali Metal in Water ;4
